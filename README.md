@@ -1,4 +1,4 @@
-![QA](https://github.com/jeweldacion/jeweldacion/blob/main/Banner.png)
+![QA](https://github.com/jeweldacion/jeweldacion/blob/main/banner1.png)
 <h1 align="center">Hi ❤️, I'm Jewel Dacion your QA Software Engineer</h1>
 <h3 align="center">A Systematic, Detail-oriented and Collaborative QA Software Engineer with experience in manual, automation and API testing, I help teams produce high-quality work by completing thorough quality assurance evaluations.</h3>
 
