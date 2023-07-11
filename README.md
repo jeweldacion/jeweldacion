@@ -1,7 +1,7 @@
 <img width="1000" height="200" src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=3840&q=85">
 <h1 align="center">Hi ❤️, I'm Jewel Dacion your QA Software Engineer</h1>
-<h3 align="center">A Systematic, Detail-oriented and Collaborative QA Software Engineer with experience in manual, automation and API testing, I help teams produce high-quality work by completing thorough quality assurance evaluations.</h3>
-
+<h4 align="justify">&emsp; A Systematic, Detail-oriented and Collaborative QA Software Engineer with experience in manual, automation and API testing, I help teams produce high-quality work by completing thorough quality assurance evaluations. I am driven by an unwavering passion for my work and the profound impact it has on people's lives. I am truly enthusiastic about the opportunity to meticulously test and refine products, ensuring their quality and reliability. Each day, I am motivated by the knowledge that my efforts directly shape the experiences of end-users, ultimately making a positive difference in their lives. It is this deep sense of purpose and the ability to contribute meaningfully that truly fuels my passion as a QA engineer. </h4>
+have 
 - 🔭 I’m currently working on **Enhancing my automation testing skills and learning different testing tools**
 
 - 🌱 I’m currently learning **AWS, JMeter, K6, React**
