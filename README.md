@@ -6,9 +6,11 @@
 
 - 🌱 I’m currently learning **AWS, JMeter, K6, React**
 
-- 📫 How to reach me **dacionjewelshayne@gmail.com**
+- 💼 Any freelance work? do reach, **[Email](dacionjewelshayne@gmail.com)**
 
-- ⚡ Fun fact **I love outdoor activities and exciting adventures!**
+- ⚡  Fun fact **I love outdoor activities and exciting adventures!**
+
+- 📝 Ask me about anything, **I am happy to help**
 
 ---
 
