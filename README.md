@@ -2,15 +2,6 @@
 <h1 align="center">Hi ❤️, I'm Jewel Dacion your QA Software Engineer</h1>
 <h4 align="justify">&emsp; A Systematic, Detail-oriented and Collaborative QA Software Engineer with experience in manual, automation and API testing, I help teams produce high-quality work by completing thorough quality assurance evaluations. I am driven by an unwavering passion for my work and the profound impact it has on people's lives. I am truly enthusiastic about the opportunity to meticulously test and refine products, ensuring their quality and reliability. Each day, I am motivated by the knowledge that my efforts directly shape the experiences of end-users, ultimately making a positive difference in their lives. It is this deep sense of purpose and the ability to contribute meaningfully that truly fuels my passion as a QA engineer. </h4>
 
-- 🔭 I’m currently working on **Enhancing my automation testing skills and learning different testing tools**
-
-- 🌱 I’m currently learning **AWS, JMeter, K6, React**
-
-- 💼 Any freelance work? do reach, **[Email](dacionjewelshayne@gmail.com)**
-
-- ⚡  Fun fact **I love outdoor activities and exciting adventures!**
-
-- 📝 Ask me about anything, **I am happy to help**
 
 ---
 
